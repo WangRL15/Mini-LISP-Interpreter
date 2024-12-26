@@ -1,8 +1,6 @@
-I'll help you convert that content into Markdown format. Here's the README.md version:
-
 # Mini-LISP Interpreter
 
-Final project for the Compilers course at National Central University, Fall 2023.
+Final project for the Compilers course at National Central University, Fall 2024.
 
 ## Documents
 
@@ -52,5 +50,5 @@ Execution Method:
 If encountering issues like permission error, try modifying script permissions:
 
 ```bash
-chmod +x run_tests.sh
+chmod +x run_test.sh
 ```
