@@ -4,8 +4,8 @@ Final project for the Compilers course at National Central University, Fall 2024
 
 ## Documents
 
-- [Compiler Final Project Requirements](./docs/Compiler%20Final%20Project.pdf)
-- [Mini-LISP Language Specification](./docs/MiniLisp.pdf)
+- [Compiler Final Project Requirements](https://drive.google.com/file/d/1-xBUg5t5pvK-CodUHSKvbJHNxYSmAc2X/view?usp=sharing)
+- [Mini-LISP Language Specification](https://drive.google.com/file/d/1-xBUg5t5pvK-CodUHSKvbJHNxYSmAc2X/view?usp=sharing)
 
 ## Development
 
